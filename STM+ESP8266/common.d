@@ -1,0 +1,14 @@
+..\..\common.o: ..\..\User\Common\Common.c
+..\..\common.o: ..\..\User\Common\common.h
+..\..\common.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\common.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\common.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\common.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\common.o: ..\..\User\stm32f10x_conf.h
+..\..\common.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\common.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\common.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\common.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\common.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\common.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\common.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
